@@ -1,0 +1,22 @@
+
+body{
+    background-color:whitesmoke;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+div1{
+    color:aqua ;
+}
+  
+.button{
+ background-color: #EC6611;
+
+}
+
+.button:hover{
+    background-color: #EC6611;
+}
+
+font{
+    font-size: 16px;
+}
